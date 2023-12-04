@@ -1,0 +1,1 @@
+ng new --no-standalone  app_name ->To create with module file
